@@ -1,0 +1,14 @@
+h1{
+	color:red;
+}
+.bg{
+
+	background-color:black;
+}
+.fs{
+
+	front-size:50px;
+}
+#border{
+	border:5px solid red;
+}
